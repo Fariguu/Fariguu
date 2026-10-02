@@ -19,8 +19,6 @@
 
 - 🎓 **Undergraduate Student in Computer Science & Software Production Technologies (ITPS)** at *Università degli Studi di Bari Aldo Moro*.
 - 🏫 Background in **Business Information Systems (SIA)**: relational database design (SQL), systems security, and enterprise software.
-- ⚡ **Core Focus**: Full-stack web architectures, Next.js App Router, Supabase / PostgreSQL, atomic state management, and serverless workflows.
-- 🎯 **Engineering Principles**: 100/100 Lighthouse performance, type safety with TypeScript & Zod, zero race condition concurrency, and strict privacy/GDPR compliance.
 - 📍 Based in **Bari, Italy** — Open to junior positions, engineering internships, and tech collaborations.
 
 ---
